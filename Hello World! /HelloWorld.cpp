@@ -1,7 +1,7 @@
 #include <iostream>
+#define return std::cout << "Hello world"; return
 
 int main()
 {
-    std::cout << "Hello world!\n";
     return 0;
 }
